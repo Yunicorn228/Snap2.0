@@ -2,3 +2,6 @@ datasets/
 log/
 log_tensorboard/
 saved/
+data/
+dataset/
+__pycache__/
